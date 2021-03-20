@@ -1,0 +1,14 @@
+#clock{
+  width:900px;
+  margin :150px;
+  text-align:center;
+  font-size:150px;
+  background-color: black;
+  color:#39FF14;
+  border: 5px solid #39FF14
+  
+}
+
+body{
+  color: blue;
+}
